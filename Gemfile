@@ -8,8 +8,8 @@ gemspec
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
 gem "cornell-assemblies-rails",
-  git: "git://github.com/bmurphyj/cornell-assemblies-rails.git"
-  # branch: "0-0-2"
+  git: "git://assembly.cornell.edu/git/cornell-assemblies-rails",
+  branch: "0-0-2"
 
 # Declare any dependencies that are still in development here instead of in
 # your gemspec. These might include edge Rails or gems from your path or
